@@ -1,4 +1,4 @@
-# price_checker
+# price-checker
 
 Python program that emails you when a product changes prices. It also logs the price changes in a csv so you can track overtime. 
 
